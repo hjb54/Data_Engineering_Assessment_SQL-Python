@@ -1,6 +1,6 @@
 # Data Engineering Assessment Solutions
 
-This repository contains my solutions to a multi-part SQL and Python data engineering assessment. The tasks demonstrate skills in SQL querying, window functions, CTEs, data validation, ETL-style Python scripting, pipeline design, and distributed data processing concepts.
+This repository contains my solutions to a SQL and Python data engineering assessment. The tasks demonstrate skills in SQL querying, window functions, CTEs, data validation, ETL style Python scripting, pipeline design, and distributed data processing concepts.
 
 ## Contents
 
